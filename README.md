@@ -204,7 +204,7 @@ A DOI will be added once the article is published.
 
 ### References
 
-Du, Y., & Girault, Y. (2018). A Genealogy of UNESCO Global Geopark: Emergence and Evolution. International Journal of Geoheritage and Parks, 6(2), 1–17. https://doi.org/10.17149/ijgp.j.issn.2577.4441.2018.02.001
-Pásková, M. (2022). Geopark Certification as an Efficient Form of Sustainable Management of a Geotourism Destination. In V. Braga, A. Duarte, & C. S. Marques (Eds.), Economics and Management of Geotourism (pp. 65–85). Springer International Publishing. https://doi.org/10.1007/978-3-030-89839-7_4
-UNESCO. (2022). Checklist to define an aspiring UNESCO Global Geopark (aUGGp). https://unesdoc.unesco.org/ark:/48223/pf0000383838
+- Du, Y., & Girault, Y. (2018). A Genealogy of UNESCO Global Geopark: Emergence and Evolution. International Journal of Geoheritage and Parks, 6(2), 1–17. https://doi.org/10.17149/ijgp.j.issn.2577.4441.2018.02.001
+- Pásková, M. (2022). Geopark Certification as an Efficient Form of Sustainable Management of a Geotourism Destination. In V. Braga, A. Duarte, & C. S. Marques (Eds.), Economics and Management of Geotourism (pp. 65–85). Springer International Publishing. https://doi.org/10.1007/978-3-030-89839-7_4
+- UNESCO. (2022). Checklist to define an aspiring UNESCO Global Geopark (aUGGp). https://unesdoc.unesco.org/ark:/48223/pf0000383838
 
