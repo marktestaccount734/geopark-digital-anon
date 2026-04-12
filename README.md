@@ -203,3 +203,9 @@ This repository contains supplementary data and code associated with the study:
 *Does Digital Transformation Drive Innovation in UNESCO Global Geoparks? Evidence from a Global Survey on the Role of Digital Tools.*  
 
 A DOI will be added once the article is published.
+
+### References
+
+- Du, Y., & Girault, Y. (2018). [A Genealogy of UNESCO Global Geopark: Emergence and Evolution](https://doi.org/10.17149/ijgp.j.issn.2577.4441.2018.02.001)
+- UNESCO. (2022). [Checklist to define an aspiring UNESCO Global Geopark (aUGGp)](https://unesdoc.unesco.org/ark:/48223/pf0000383838)
+- Pásková, M. (2022). [Geopark Certification as an Efficient Form of Sustainable Management of a Geotourism Destination](https://doi.org/10.1007/978-3-030-89839-7_4)
