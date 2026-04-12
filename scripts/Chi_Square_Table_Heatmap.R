@@ -8,9 +8,7 @@
 # "Does Digital Transformation Drive Innovation in UNESCO Global
 # Geoparks? Evidence from a Global Survey on the Role of Digital Tools"
 #
-# Author: Mark Williams
-# Affiliation: University of Tasmania
-# Email: mark.williams@utas.edu.au
+# Author: Anonymous (for blind review)
 #
 # Status: Manuscript under review / in preparation
 #
@@ -228,7 +226,7 @@ runChiSquareTest <- function(variable1_name,
 }
 
 # Example usage
-setwd("C:/Users/markw11/OneDrive - University of Tasmania/Research/PhD/Data/Role of Digital Tools Questionnaire/Analysis/Bivariate Analysis/Chi-Square")
+setwd("INSERT PATH")
 
 #Geology_Landscape
 #Geotourism
@@ -239,7 +237,7 @@ setwd("C:/Users/markw11/OneDrive - University of Tasmania/Research/PhD/Data/Role
 runChiSquareTest(
   variable1_name = "AR",
   variable2_name = "Management_Structure",
-  input_file = "C:/Users/markw11/OneDrive - University of Tasmania/Research/PhD/Data/Role of Digital Tools Questionnaire/GitHub/Digital_Tools_UGGp_DATA_CLEANED.xlsx",
+  input_file = "INSERT PATH",
   output_dir = getwd()
 )
 
